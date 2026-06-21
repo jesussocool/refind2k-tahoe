@@ -1,4 +1,4 @@
-# refind2k
+# rEFInd Tahoe
 <div align = "center">
 
 <h1><a href="https://2kabhishek.github.io/refind2k">refind2k</a></h1>
@@ -21,7 +21,7 @@
 <a href="https://github.com/2KAbhishek/refind2k/pulse">
 <img alt="Last Updated" src="https://img.shields.io/github/last-commit/2kabhishek/refind2k?style=flat&color=e06c75&label="> </a>
 
-<h3>Minimalist Theme for rEFInd 💠💻</h3>
+<h3>macOS Tahoe-like Theme for rEFInd</h3>
 
 <figure>
   <img src= "https://raw.githubusercontent.com/2KAbhishek/refind2k/main/images/refind2k.jpg" alt="refind2k screenshot" style="width:100%">
@@ -31,13 +31,9 @@
 
 </div>
 
-## Inspiration
-
-Just wanted a pretty but powerful bootloader.
-
 ## What it does
 
-A minimalist dark theme for [rEFInd](http://www.rodsbooks.com/refind/), the ultimate bootloader for hobbyists and multi-booters.
+A modern, macOS-like dark theme for [rEFInd](http://www.rodsbooks.com/refind/), the ultimate bootloader for hobbyists and multi-booters.
 
 Comes with a clean design with colorful icons, and a quick setup script.
 
@@ -67,9 +63,6 @@ You can change the banners, icons, resolution etc. in the `refind2k.conf` file t
 Here's a screenshot with the default background.
 
 ![refind2k-light](https://raw.githubusercontent.com/2KAbhishek/refind2k/main/images/refind2k-light.jpg)
-
-
-Hit the ⭐ button if you found this useful.
 
 ## More Info
 
